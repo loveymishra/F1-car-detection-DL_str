@@ -1,6 +1,7 @@
 F1 Car Detection is a Deep learning app made to classify Formula 1 racing cars consist 10 classes.
 Accuracy of the model is 91%, and validation accuracy is 81%, 
 Data Link : https://www.kaggle.com/datasets/loveymishra/f1-image-classification-updated
+
 Link To Web App : https://f1-car-detection-dlstr-4vmunyaecvchhaidkc8s9y.streamlit.app/
 
 Screenshot Of App Usage:
